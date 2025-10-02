@@ -1,2 +1,3 @@
-# algorithms-in-C-
-this is a single most important collection of all the algorithms.
+# algorithms-in-c++
+
+all algorithms in one place for future referals.
